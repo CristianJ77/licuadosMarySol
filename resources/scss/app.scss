@@ -25,6 +25,8 @@ section.hero {
 .size {
     background: $secondary;
 }
+
+//Estilo agregar carrito
 .add-to-cart {
     border: 2px solid $primary;
     color: $primary;
@@ -45,6 +47,7 @@ section.hero {
     }
 }
 
+//Estilo del botón carrito
 section.cart {
     background: $secondary;
     .amount {
@@ -52,6 +55,7 @@ section.cart {
     }
 }
 
+//Estilo del botón login
 section.login {
     background: $secondary;
     min-height: calc(100vh - 86px);
